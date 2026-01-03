@@ -22,7 +22,6 @@ A strong **tabular CatBoost baseline** is established through extensive feature 
 
 ## Dataset
 **Base Dataset**
-- Source: King County Housing Dataset  
 - Key features:
   - `price` (target)
   - `bedrooms`, `bathrooms`

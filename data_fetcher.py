@@ -7,7 +7,7 @@ from tqdm import tqdm
 # -----------------------------
 # CONFIG
 # -----------------------------
-API_KEY = "AIzaSyBqFmkCiJzjJ3BaW9XxaDjIB2rBoH7zkRI"
+API_KEY = "YOUR_API_KEY"
 OUT_DIR = "google_images"
 
 ZOOM = 19
@@ -76,3 +76,4 @@ if __name__ == "__main__":
     df = df[['id', 'lat', 'long']]
 
     download_all(df)
+

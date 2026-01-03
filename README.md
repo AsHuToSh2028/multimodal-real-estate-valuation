@@ -20,19 +20,6 @@ A strong **tabular CatBoost baseline** is established through extensive feature 
 
 ---
 
-## Repository Structure
-multimodal-real-estate-valuation/
-│
-├── data_fetcher.py # Script to download satellite images using lat/long
-├── Tabular_Only_Model.ipynb # EDA, feature engineering, and optimized CatBoost model
-├── Multi_Model.ipynb # Multimodal pipeline (tabular + image embeddings)
-├── 24113026_final.csv # Final test set predictions (id, predicted_price)
-├── 24113026_report.pdf # Detailed project report (PDF)
-├── README.md # Project documentation
-
-
----
-
 ## Dataset
 **Base Dataset**
 - Source: King County Housing Dataset  
